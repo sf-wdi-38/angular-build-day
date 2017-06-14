@@ -51,7 +51,7 @@ We feel a realistically scoped project could be one of the following:
 
 **Optional: A working prototype version of your app deployed on Heroku or Github Pages.**
 
-Tomorrow
+This is what you'll work on all day; tomorrow morning, we'll do science-fair style presentations of what you've done.
 
 <br>
 <br>
